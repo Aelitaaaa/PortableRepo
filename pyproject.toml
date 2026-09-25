@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "portablerepo"
+version = "1.0.0"
+description = "Find works-on-my-machine problems before users do."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Muhamad Dzaky Putra Fardian"}]
+keywords = ["cli", "git", "github", "portability", "developer-tools", "ci"]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Environment :: Console",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Software Development :: Quality Assurance",
+]
+
+[project.urls]
+Homepage = "https://github.com/Aelitaaaa/PortableRepo"
+Repository = "https://github.com/Aelitaaaa/PortableRepo"
+Issues = "https://github.com/Aelitaaaa/PortableRepo/issues"
+
+[project.scripts]
+portablerepo = "portablerepo:main"
+
+[tool.setuptools]
+py-modules = ["portablerepo"]
