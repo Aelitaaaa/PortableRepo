@@ -4,7 +4,7 @@
 
 PortableRepo is a read-only, zero-runtime-dependency CLI that finds common cross-machine repository problems without executing project code.
 
-Created and maintained by **Muhamad Dzaky Putra Fardian** ([@Aelitaaaa](https://github.com/Aelitaaaa)).
+Created and maintained by ([@Aelitaaaa](https://github.com/Aelitaaaa)).
 
 ## Why
 
