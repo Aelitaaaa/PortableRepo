@@ -1,5 +1,10 @@
 # PortableRepo
 
+[![CI](https://github.com/Aelitaaaa/PortableRepo/actions/workflows/ci.yml/badge.svg)](https://github.com/Aelitaaaa/PortableRepo/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-%3E%3D3.10-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Aelitaaaa/PortableRepo)](https://github.com/Aelitaaaa/PortableRepo/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/Aelitaaaa/PortableRepo/actions)
 **Make “works on my machine” fail before merge.**
 
 PortableRepo is a read-only, zero-runtime-dependency CLI that finds common cross-machine repository problems without executing project code.
